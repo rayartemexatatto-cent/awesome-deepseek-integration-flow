@@ -376,7 +376,7 @@ With these functionalities, the AI assistant can summarize key points within an 
             FastGPT is an open-source AI knowledge base platform built on large language models (LLMs), supporting various models including DeepSeek and OpenAI. We provide out-of-the-box capabilities for data processing, model invocation, RAG retrieval, and visual AI workflow orchestration, enabling you to effortlessly build sophisticated AI applications.
         </td>
    </tr>
-   <tr>
+     <tr>
         <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/ruzhiai_note/README.md">RuZhi AI Notes</a> </td>
         <td>RuZhi AI Notes is an intelligent knowledge management tool powered by AI, providing one-stop knowledge management and application services including AI search & exploration, AI results to notes conversion, note management & organization, knowledge presentation & sharing. Integrated with DeepSeek model to provide more stable and higher quality outputs.</td>
@@ -396,12 +396,12 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/1Panel-dev/MaxKB">MaxKB</a> </td>
         <td> <a href="https://maxkb.cn/">MaxKB</a> is a ready-to-use, flexible RAG Chatbot. </td>
     </tr>
-    <tr>
+      <tr>
         <td> <img src="./docs/TigerGPT/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://ttm.financial/gpt">TigerGPT</a> </td>
         <td>TigerGPT is the first financial AI investment assistant of its kind based on OpenAI, developed by Tiger Group. TigerGPT aims to provide intelligent investment decision-making support for investors. On February 18, 2025, TigerGPT officially integrated the DeepSeek-R1 model to provide users with online Q&A services that support deep reasoning. </td>
     </tr>
-    <tr>
+     <tr>
         <td> <img src="./docs/HIX.AI/assets/logo.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://hix.ai">HIX.AI</a> </td>
         <td>Try DeepSeek for free and enjoy unlimited AI chat on HIX.AI. Use DeepSeek R1 for AI chat, writing, coding & more. Experience next-gen AI chat now!</td>
@@ -411,12 +411,12 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/sharmt1411/askanywhere">Askanywhere</a> </td>
         <td>Select text anywhere and start a conversation with Deepseek</td>
     </tr>
-    <tr>
+     <tr>
         <td> <img src="https://github.com/OJZen/1chat/raw/refs/heads/main/doc/assets/icon.ico?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/OJZen/1chat">1chat</a> </td>
         <td>An iOS app that lets you chat with the DeepSeek-R1 model locally.</td>
     </tr>
-    <tr>
+     <tr>
         <td> <img src="https://chatlabsai.com/assets/logo/logo.png" alt="iOS AI Chatbot" width="64" height="auto" /> </td>
         <td> <a href="https://chatlabsai.com">Access 250+ text, image LLMs in one app</a> </td>
         <td> 1AI iOS Chatbot integrates with 250+ text, image, voice models allowing users chat with any model in the world including Deepseek R1 and Deepseek V3 models.</td>
